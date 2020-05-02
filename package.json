@@ -1,0 +1,11 @@
+{
+  "name": "movies_start",
+  "version": "1.0.0",
+  "description": "Games Hub is a full stack JavaScript application with an Express server and MongoDB database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
